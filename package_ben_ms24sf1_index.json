@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/BridgeTechIL/ms24sf1-board/Ben_Custom_Boards.zip",
           "archiveFileName": "Ben_Custom_Boards.zip",
-          "checksum": "a17e2fb8fb1d4acc45fb5b1001e35c17ee1e40e60949db5f790c6d2813dd070a",
-          "size": "1992",
+          "checksum": "cca225b3495677c3cdfa3b3423878f63406c2ca3c2646608da091479efafd5c0",
+          "size": "6676",
           "boards": [
             {
               "name": "MinewSemi MS24SF1 (Ben Custom)"
