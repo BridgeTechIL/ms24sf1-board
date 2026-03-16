@@ -1,0 +1,42 @@
+{
+  "packages": [
+    {
+      "name": "Ben_Custom_Boards",
+      "maintainer": "Ben",
+      "websiteURL": "https://github.com/BridgeTechIL/ms24sf1-board",
+      "email": "ben@smart-site.com",
+      "help": {
+        "online": "https://github.com/BridgeTechIL/ms24sf1-board/issues"
+      },
+      "platforms": [
+        {
+          "name": "Ben MS24SF1 Custom Boards",
+          "architecture": "nrf52",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/BridgeTechIL/ms24sf1-board/Ben_Custom_Boards.zip",
+          "archiveFileName": "Ben_Custom_Boards.zip",
+          "checksum": "a17e2fb8fb1d4acc45fb5b1001e35c17ee1e40e60949db5f790c6d2813dd070a",
+          "size": "1992",
+          "boards": [
+            {
+              "name": "MinewSemi MS24SF1 (Ben Custom)"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "adafruit",
+              "name": "arm-none-eabi-gcc",
+              "version": "9-2019q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfutil",
+              "version": "6.1.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
