@@ -22,18 +22,6 @@
             {
               "name": "MinewSemi MS24SF1 (Ben Custom)"
             }
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "adafruit",
-              "name": "arm-none-eabi-gcc",
-              "version": "9-2019q4"
-            },
-            {
-              "packager": "adafruit",
-              "name": "nrfutil",
-              "version": "6.1.0"
-            }
           ]
         }
       ]
